@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @didofid
-- 👀 I’m interested in white hat hacker
+- 👀 I’m interested in white hat hacking
 - 🌱 I’m currently learning osintgram
 - 💞️ I’m looking to collaborate on 'non'
 - 📫 How to reach me 'non'
